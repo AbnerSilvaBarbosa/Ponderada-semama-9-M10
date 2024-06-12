@@ -2,8 +2,8 @@ site_name: "Ponderada de programação semana 9 - M10"
 theme:
   name: "material"
 nav:
-  - Passo a passo 🐣: passo.md
-  - O que é terraform 🤔: index.md
+  - Passo a passo 🐣: index.md
+  - O que é terraform 🤔: passo.md
   - Configuração na sua maquina 🤖: config.md
   - Terraform 🟪: terraform.md
   - Logs 📗: logs.md
